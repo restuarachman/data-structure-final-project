@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1588029892 source:d:\kuliah\struktur data\tubes std\main.cpp
+	"parent.h"
+	"set.h"
+
+1587655765 source:d:\kuliah\struktur data\tubes std\parent.cpp
+	"parent.h"
+	"set.h"
+
+1587655816 d:\kuliah\struktur data\tubes std\parent.h
+	"child.h"
+
+1587655816 d:\kuliah\struktur data\tubes std\child.h
+	<iostream>
+
+1587825194 source:d:\kuliah\struktur data\tubes std\child.cpp
+	"child.h"
+	"set.h"
+
+1588029281 source:d:\kuliah\struktur data\tubes std\set.cpp
+	"set.h"
+	"parent.h"
+
+1588028555 d:\kuliah\struktur data\tubes std\set.h
+	<iostream>
+	<bits/stdc++.h>
+
+1587825194 source:d:\kuliah\semester 2\struktur data\tubes std\child.cpp
+	"child.h"
+	"set.h"
+
+1630889171 d:\kuliah\semester 2\struktur data\tubes std\child.h
+	<iostream>
+
+1588028555 d:\kuliah\semester 2\struktur data\tubes std\set.h
+	<iostream>
+	<bits/stdc++.h>
+
+1588029892 source:d:\kuliah\semester 2\struktur data\tubes std\main.cpp
+	"parent.h"
+	"set.h"
+
+1587655816 d:\kuliah\semester 2\struktur data\tubes std\parent.h
+	"child.h"
+
+1587655765 source:d:\kuliah\semester 2\struktur data\tubes std\parent.cpp
+	"parent.h"
+	"set.h"
+
+1588029281 source:d:\kuliah\semester 2\struktur data\tubes std\set.cpp
+	"set.h"
+	"parent.h"
+
